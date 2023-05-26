@@ -1,0 +1,11 @@
+// Notes Bases de Datos Clase 2
+
+- Bases de Datos son archivos
+- Todo lo de bases de datos se hace en memoria principal
+
+A. Sistema Gestionador de Bases de Datos
+    1. Procesos   -> capas
+    2. Memoria
+    3. Archivos
+    TCPIP
+    Listeners

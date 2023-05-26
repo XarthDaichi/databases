@@ -1,0 +1,30 @@
+Practica # 2
+
+1. Creación de una estructura lógica para trabajos de prueba en la BD
+
+"create tablespace pruebas
+  datafile 'pruebas01.pdf'
+  size 100M
+  autoextend on next 10M
+  maxsize 2G;"
+
+Mito: Las bases de datos siguen y siguen creciendo / Verdad: hay que limitarle el tamaño a la base de datos
+
+2. Prueba de funcionalidad de tablespace prueba
+
+"create table t1 (a int, b int, c int) tablespace pruebas;
+ create table t2 (x int, y int, z int) tablespace pruebas;
+ create table t3 (m int, n int, z int) tablespace pruebas;"
+
+3. Verifiación de pruebas
+
+"describe dba_tablespaces;
+ describe dba_tables;
+ describe dba_data_files;"
+
+Estos sirven para ver los nombres y atributos de las "columnas"
+
+"select tablespace_name from dba_tablespaces where tablespace_name='PRUEBAS';
+ select table_name from dba_tables where tablespace_name='PRUEBAS';
+ select file_name from dba_data_files where tablespace_name='PRUEBAS';"
+

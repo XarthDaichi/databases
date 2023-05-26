@@ -1,0 +1,503 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.21)  22 MAR 2023 22:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**investigacion1.tex
+(./investigacion1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count197
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count198
+\c@listtotal=\count199
+\c@listcount=\count266
+\c@liststart=\count267
+\c@liststop=\count268
+\c@citecount=\count269
+\c@citetotal=\count270
+\c@multicitecount=\count271
+\c@multicitetotal=\count272
+\c@instcount=\count273
+\c@maxnames=\count274
+\c@minnames=\count275
+\c@maxitems=\count276
+\c@minitems=\count277
+\c@citecounter=\count278
+\c@maxcitecounter=\count279
+\c@savedcitecounter=\count280
+\c@uniquelist=\count281
+\c@uniquename=\count282
+\c@refsection=\count283
+\c@refsegment=\count284
+\c@maxextratitle=\count285
+\c@maxextratitleyear=\count286
+\c@maxextraname=\count287
+\c@maxextradate=\count288
+\c@maxextraalpha=\count289
+\c@abbrvpenalty=\count290
+\c@highnamepenalty=\count291
+\c@lownamepenalty=\count292
+\c@maxparens=\count293
+\c@parenlevel=\count294
+\blx@tempcnta=\count295
+\blx@tempcntb=\count296
+\blx@tempcntc=\count297
+\c@blx@maxsection=\count298
+\c@blx@maxsegment@0=\count299
+\blx@notetype=\count300
+\blx@parenlevel@text=\count301
+\blx@parenlevel@foot=\count302
+\c@blx@sectionciteorder@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2021/12/24 v9.15 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@narrator=\count345
+\c@savednarrator=\count346
+\c@execproducer=\count347
+\c@savedexecproducer=\count348
+\c@execdirector=\count349
+\c@savedexecdirector=\count350
+\c@with=\count351
+\c@savedwith=\count352
+\c@labelname=\count353
+\c@savedlabelname=\count354
+\c@institution=\count355
+\c@savedinstitution=\count356
+\c@lista=\count357
+\c@savedlista=\count358
+\c@listb=\count359
+\c@savedlistb=\count360
+\c@listc=\count361
+\c@savedlistc=\count362
+\c@listd=\count363
+\c@savedlistd=\count364
+\c@liste=\count365
+\c@savedliste=\count366
+\c@listf=\count367
+\c@savedlistf=\count368
+\c@location=\count369
+\c@savedlocation=\count370
+\c@organization=\count371
+\c@savedorganization=\count372
+\c@origlocation=\count373
+\c@savedoriglocation=\count374
+\c@origpublisher=\count375
+\c@savedorigpublisher=\count376
+\c@publisher=\count377
+\c@savedpublisher=\count378
+\c@language=\count379
+\c@savedlanguage=\count380
+\c@origlanguage=\count381
+\c@savedoriglanguage=\count382
+\c@citation=\count383
+\c@savedcitation=\count384
+\c@pageref=\count385
+\c@savedpageref=\count386
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count387
+\c@textcitetotal=\count388
+\c@textcitemaxnames=\count389
+\c@biburlbigbreakpenalty=\count390
+\c@biburlbreakpenalty=\count391
+\c@biburlnumpenalty=\count392
+\c@biburlucpenalty=\count393
+\c@biburllcpenalty=\count394
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count395
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2021/12/24 v9.15 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count396
+\c@bbx:relatedtotal=\count397
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+
+
+Package biblatex Warning: The starred command '\DeclareDelimAlias*' is
+(biblatex)                deprecated.
+(biblatex)                Use the unstarred version '\DeclareDelimAlias'
+(biblatex)                instead.
+
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2021/12/24 v9.15 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-04-10 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count398
+\l__pdf_internal_box=\box50
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-04-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count399
+\@quotereset=\count400
+(./investigacion1.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `investigacion1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
+Package biblatex Info: ... file 'spanish-apa.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
+File: spanish-apa.lbx 2021/12/24 v9.15 APA biblatex localisation
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `investigacion1.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'investigacion1.bbl' found.
+
+(./investigacion1.bbl)
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
+
+! Undefined control sequence.
+l.21        \includegraphics
+                            [scale=0.4]{/home/xarthy/logo-UNA.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./investigacion1.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `investigacion1.toc'.
+
+
+[1]
+
+! LaTeX Error: No \title given.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \maketitle
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: Citation 'postgres_installaition' on page 2 undefined on input l
+ine 32.
+
+
+LaTeX Warning: Empty bibliography on input line 34.
+
+[2] (./investigacion1.aux
+LaTeX Info: Redefining \sptext on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                investigacion1
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'investigacion1.run.xml'.
+\openout1 = `investigacion1.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10337 strings out of 478238
+ 198938 string characters out of 5850456
+ 972556 words of memory out of 5000000
+ 28535 multiletter control sequences out of 15000+600000
+ 471682 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,6n,68p,747b,2802s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on investigacion1.pdf (3 pages, 29793 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
