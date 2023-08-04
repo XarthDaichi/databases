@@ -1,4 +1,5 @@
-![[app.sql]]
+![[app-bases/app.sql]]
+![[classCode/15-05-2023/triggers.sql]]
 
 ```mermaid
 erDiagram

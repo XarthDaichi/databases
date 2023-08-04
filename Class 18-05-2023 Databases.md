@@ -14,6 +14,10 @@ graph LR
 	end
 ```
 
+
+>[! Hay que implementarlo en app]
+>![[app-bases/app.sql]]
+
 ```css
 .label > g > foreingObject {
 	color: red;
